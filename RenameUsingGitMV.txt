@@ -2,3 +2,4 @@ Antes estaba "A", ahora se hizo un cambio
 a "Nuevo"
 
 3° Nuevo Cambio
+4° Cambio "luego de crear el .gitignore"
